@@ -1,6 +1,6 @@
 - 👋 Hi, We are @MoleInTheWallGameZ
-- 👀 Weare interested in ...
-- 💞️ I’m looking to collaborate on things once weship our first major project
+- 👀 Weare interested in GameDev
+- 💞️ I’m looking to collaborate on things once we ship our first major project
 - 📫 How to reach me To Be Added
 - 😄 Pronouns: Company
 - ⚡ Fun fact: formed in 2022
